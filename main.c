@@ -2,7 +2,7 @@
 #include <time.h>
 
 
-//In case you haven't seen this before, these are preprocessor commands. What they do is that they
+//In case you haven't seen this before, these are preprocessor commands. What they do is that they act as a search and replace tool. It looks through the code and replaces the variables with the value defined here.
 #define NUM_QUESTIONS 10
 #define TIME_LIMIT    15
 
